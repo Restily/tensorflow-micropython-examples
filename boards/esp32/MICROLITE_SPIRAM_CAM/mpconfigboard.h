@@ -9,4 +9,4 @@
 #define MICROPY_ALLOCATE_HEAP_USING_MALLOC (1)
 #define MICROPY_HEAP_SIZE_REDUCTION (512 * 1024)
 
-#define MICROPY_PY_CAMERA                   (1)
+#define MICROPY_PY_CAMERA (1)
