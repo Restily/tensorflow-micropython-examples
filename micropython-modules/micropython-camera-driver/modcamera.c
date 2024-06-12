@@ -22,7 +22,7 @@
 #include "py/runtime.h"
 #include "py/binary.h"
 
-#if MICROPY_PY_CAMERA
+#if MODULE_CAMERA_ENABLED
 
 #include "esp_system.h"
 #include "esp_spi_flash.h"
